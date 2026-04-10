@@ -21,19 +21,19 @@ The system is designed using UML diagrams:
 ## UML Diagrams
 
 ### Class Diagram
-![Class Diagram](diagrams/class_diagram.png)
+![Class Diagram](diagrams/png/class_diagram.png)
 
 ### Usecase Diagram
-![Usecase](diagrams/usecase_diagram.png)
+![Usecase](diagrams/png/usecase_diagram.png)
 
 ### Sequence Diagram – login and feed pet
-![sequence1](diagrams/sequence_diagram1.png)
+![sequence1](diagrams/png/sequence_diagram1.png)
 
 ### Sequence Diagram – register and adopt Pet
-![sequence2](diagrams/sequence_diagram2.png)
+![sequence2](diagrams/png/sequence_diagram2.png)
 
 ### Activity Diagram
-![Activity](diagrams/activity_diagram.png)
+![Activity](diagrams/png/activity_diagram.png)
 
 ## Report
 You can find the full report here:
